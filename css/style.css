@@ -272,6 +272,17 @@ body {
   padding: 0 2px 20px;
 }
 
+.card__1 {
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+}
+
+.card__3 {
+  -ms-flex-item-align: end;
+      align-self: flex-end;
+}
+
 .card__title {
   font-size: 24px;
   color: white;
